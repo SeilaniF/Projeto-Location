@@ -1,7 +1,7 @@
 # Desafio
 
 Este projeto é uma página web desenvolvida como parte de um desafio. O objetivo principal é criar uma página de apresentação com informações sobre cobertura ampla e serviços oferecidos.
-
+<img src="https://github.com/SeilaniF/Projeto-Location/blob/master/img/localition.PNG?raw=true">
 ## Descrição
 
 A página contém:
